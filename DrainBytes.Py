@@ -19,9 +19,6 @@
 ## DrainBytes.Py
 # v0.1
 #
-# WhitePaper
-# D'estovallò de bar de Manresa, aquesta vegada, lol
-#
 # DrainBytes.Py <fileinput> <patcharrayfile> <interval> <mode> <fileoutput>
 #
 # DrainBytes restores in the given time interval a glitched file by taking the original bytes
